@@ -26,7 +26,15 @@
 ---
 
 ## 🛠️ Projektstruktur
-certochat/ ├── frontend/   → Flutter-App (Android/iOS/Web) ├── backend/    → Node.js WebSocket-Server ├── LICENSE     → AGPLv3 Lizenz ├── README.md   → Dieses Dokument
+
+```
+certochat/
+├── frontend/       → Flutter-App (Android/iOS/Web)
+├── backend/        → Node.js WebSocket-Server
+├── LICENSE         → AGPLv3 Lizenz
+├── README.md       → Dieses Dokument
+├── .gitignore      → Ausschlussregeln für Git
+```
 ---
 
 ## 📦 Technische Basis
