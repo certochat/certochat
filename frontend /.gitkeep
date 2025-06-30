@@ -1,1 +1,13 @@
+# Flutter
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.vscode/
+ios/Flutter/
+macos/Flutter/
+flutter_export_environment.sh
 
+# Node.js
+node_modules/
+.env
